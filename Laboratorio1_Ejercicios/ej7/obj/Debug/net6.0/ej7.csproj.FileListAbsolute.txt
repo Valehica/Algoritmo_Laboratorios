@@ -1,0 +1,15 @@
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\bin\Debug\net6.0\ej7.exe
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\bin\Debug\net6.0\ej7.deps.json
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\bin\Debug\net6.0\ej7.runtimeconfig.json
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\bin\Debug\net6.0\ej7.dll
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\bin\Debug\net6.0\ej7.pdb
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\ej7.csproj.AssemblyReference.cache
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\ej7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\ej7.AssemblyInfoInputs.cache
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\ej7.AssemblyInfo.cs
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\ej7.csproj.CoreCompileInputs.cache
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\ej7.dll
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\refint\ej7.dll
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\ej7.pdb
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\ej7.genruntimeconfig.cache
+C:\Users\Artur\OneDrive\Escritorio\Algoritmo\Lab1Ejercicios\ej7\obj\Debug\net6.0\ref\ej7.dll
